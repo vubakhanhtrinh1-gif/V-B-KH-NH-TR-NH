@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio Bridge & Integration Suite",
+  "description": "Hướng dẫn và bộ công cụ thực hành ghép nối 2 dự án hoặc 2 prompt trong Google AI Studio: Gộp mã nguồn, gọi REST API giữa 2 app, iframe postMessage, chuỗi AI Pipeline và Shared Database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
